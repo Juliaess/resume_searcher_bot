@@ -1,0 +1,9 @@
+booktype
+python-telegram-bot
+PyPDF2
+pdfplumber
+python-dotenv
+psutil
+redis
+aiosqlite
+cachetools
